@@ -49,3 +49,6 @@ Feature importance analysis from the LR model identified:
 
 ## 📁 Repository Structure
 
+├── abstract_11.ipynb # Notebook with data preparation, modeling, and evaluation
+├── README.md # Project overview and documentation
+
